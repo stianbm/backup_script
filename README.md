@@ -9,4 +9,5 @@ Tip:
 1. Create a shortcut to this script
 2. Change it's icon to that of the original game
 3. ???
+
 4 Profit
